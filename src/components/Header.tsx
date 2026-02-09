@@ -18,6 +18,7 @@ export default function Header() {
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-2">
             <img src="/logo2.jpeg" alt="Kik Pack Logo" className="h-16 w-auto" />
+            <span className="text-2xl font-bold text-gray-800">Kik Pack</span>
           </div>
 
           <div className="hidden md:flex items-center space-x-8">
