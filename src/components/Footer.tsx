@@ -9,7 +9,7 @@ export default function Footer() {
         <div className="grid md:grid-cols-4 gap-12 mb-12">
           <div>
             <div className="flex items-center space-x-2 mb-4">
-              <img src="/logo.jpeg" alt="Kik Pack Logo" className="h-10 w-auto" />
+              <img src="/logo.jpeg" alt="Kik Pack Logo" className="h-16 w-auto" />
             </div>
             <p className="text-gray-400 leading-relaxed">
               Leading manufacturer of premium disposable food packaging solutions serving 65+ countries worldwide.
