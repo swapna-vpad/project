@@ -17,8 +17,7 @@ export default function Header() {
       <nav className="container mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-2">
-            <Package className="h-8 w-8 text-emerald-600" />
-            <span className="text-2xl font-bold text-gray-800">Kik Pack</span>
+            <img src="/logo.jpeg" alt="Kik Pack Logo" className="h-10 w-auto" />
           </div>
 
           <div className="hidden md:flex items-center space-x-8">
